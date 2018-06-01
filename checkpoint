@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mele/PycharmProjects/gender_classification_convnet/gender_classification.model"
+all_model_checkpoint_paths: "/home/mele/PycharmProjects/gender_classification_convnet/gender_classification.model"
